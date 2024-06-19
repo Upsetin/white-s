@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.prose {
+    @apply dark:text-slate-400;
+}
+
+.prose a {
+    @apply dark:text-slate-400;
+}
+
+.prose code {
+    @apply dark:text-slate-400;
+}
+
+/* .prose h2 {
+    @apply dark:text-slate-400;
+} */
+
+.prose h4 {
+    @apply dark:text-slate-400;
+}
+
+.prose h1 {
+    @apply mt-4 break-words;
+    /* color: rgb(35, 255, 50); */
+}
+
+.prose img {
+    @apply shadow-lg bg-gray-100 justify-self-center  h-auto w-auto mx-auto dark:shadow-black;
+    max-height: 929px;
+}
+
+.prose p {
+    @apply dark:text-slate-400;
+}
+
+/*
+.prose code {
+    @apply bg-gray-300 text-slate-700 rounded-md mx-1 py-1 font-mono font-light text-gray-800;
+} */
