@@ -3,7 +3,7 @@ author: John Doe
 publishTime: 2024-06-19
 title: iPhoneX + iOS 16.3.1 + palera1n分钟级越狱
 ---
-# iPhoneX + iOS 16.3.1 + palera1n分钟级越狱
+
 ## 0、环境及工具
 
 + Macos，M系

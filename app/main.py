@@ -106,7 +106,9 @@ def read_blog(request: Request, slug: str):
         "title": metadata.get('title', 'Unknown'),
         "content": html_content,
         "author": metadata.get('author', 'White'),
-        "publishTime": metadata.get('publishTime', 'Unknown')
+        "publishTime": metadata.get('publishTime', 'Unknown'),
+        "coverAlt": metadata.get("coverAlt", ""),
+        "cover": metadata.get("cover", "")
     })
 
 if __name__ == "__main__":

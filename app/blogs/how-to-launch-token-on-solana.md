@@ -5,7 +5,7 @@ tags: self
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SPDC_figure.png/444px-SPDC_figure.png
 coverAlt: "The image illustrates the process of generating polarization-entangled photon pairs through spontaneous parametric down-conversion (SPDC) in a beta barium borate (BBO) crystal. When a laser beam is shined onto the BBO crystal, the second-type SPDC mechanism causes the generation of numerous photon pairs with perpendicular polarizations at the intersection of two cones, represented by the two red lines in the image. This phenomenon is a key method for producing quantum entanglement between photons, which is a fundamental resource in quantum information processing and communication."
 ---
-# How to Launch Token on Solana
+
 ## 0x0 前言
 前一阵在Solana链上很流行发行Meme Token，由于Solana的高性能和低成本，使得Solana链上的Token发行成为了一种趋势。本文将详细介绍如何在Solana链上发行Token。
 我会用两种方法来交介绍如何发行自己的Token，一种是通过官方的solana-cli，另一种是通过第三方的metaboss一键发币。以及如何在raydium上创建交易对,以及撤回交易对，实现常见的"Rug"操作。
